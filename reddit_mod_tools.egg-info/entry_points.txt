@@ -1,0 +1,2 @@
+[console_scripts]
+reddit-mod-tools = shared.cli:app
